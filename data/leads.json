@@ -1,0 +1,92 @@
+[
+  {
+    "id": "f0a1e9b0-1111-4a11-8888-000000000001",
+    "name": "Ananya Rao",
+    "email": "ananya.rao@example.com",
+    "phone": "+91 98450 12345",
+    "source": "Website Form",
+    "status": "contacted",
+    "notes": [
+      {
+        "id": "2fdca5ae-7b5e-44e7-b492-b6d952cbf9ed",
+        "text": "contacted her and she's deciding and said to reach out again by tommorow",
+        "followUpDate": "2026-09-22",
+        "createdAt": "2026-08-29T09:40:22.903Z"
+      }
+    ],
+    "createdAt": "2026-08-20T09:15:00.000Z",
+    "updatedAt": "2026-08-29T09:40:22.903Z"
+  },
+  {
+    "id": "f0a1e9b0-2222-4a11-8888-000000000002",
+    "name": "Rahul Menon",
+    "email": "rahul.menon@example.com",
+    "phone": "+91 90000 54321",
+    "source": "Referral",
+    "status": "contacted",
+    "notes": [
+      {
+        "id": "n-0001",
+        "text": "Called on Aug 22, interested in the premium plan. Sent pricing PDF.",
+        "followUpDate": "2026-08-29",
+        "createdAt": "2026-08-22T11:00:00.000Z"
+      }
+    ],
+    "createdAt": "2026-08-18T14:30:00.000Z",
+    "updatedAt": "2026-08-22T11:00:00.000Z"
+  },
+  {
+    "id": "f0a1e9b0-3333-4a11-8888-000000000003",
+    "name": "Priya Shetty",
+    "email": "priya.shetty@example.com",
+    "phone": "+91 88888 11223",
+    "source": "Instagram Ad",
+    "status": "converted",
+    "notes": [
+      {
+        "id": "n-0002",
+        "text": "Signed up for the annual plan after the demo call.",
+        "followUpDate": null,
+        "createdAt": "2026-08-15T10:00:00.000Z"
+      }
+    ],
+    "createdAt": "2026-08-10T08:00:00.000Z",
+    "updatedAt": "2026-08-15T10:00:00.000Z"
+  },
+  {
+    "id": "f0a1e9b0-4444-4a11-8888-000000000004",
+    "name": "Karan Desai",
+    "email": "karan.desai@example.com",
+    "phone": "+91 77777 99887",
+    "source": "Google Ads",
+    "status": "lost",
+    "notes": [
+      {
+        "id": "n-0003",
+        "text": "Went with a competitor after comparing pricing.",
+        "followUpDate": null,
+        "createdAt": "2026-08-12T09:30:00.000Z"
+      }
+    ],
+    "createdAt": "2026-08-05T09:00:00.000Z",
+    "updatedAt": "2026-08-12T09:30:00.000Z"
+  },
+  {
+    "id": "6c253318-1b03-4fe3-9c1a-1cc3a1a7abc9",
+    "name": "ramiha",
+    "email": "ramiha@123",
+    "phone": "",
+    "source": "Website Form",
+    "status": "new",
+    "notes": [
+      {
+        "id": "394da459-6fa2-4156-86e7-0a844492a595",
+        "text": "said to reach out tommorrow again",
+        "followUpDate": "2026-08-30",
+        "createdAt": "2026-08-29T09:38:58.172Z"
+      }
+    ],
+    "createdAt": "2026-08-29T09:38:31.310Z",
+    "updatedAt": "2026-08-29T09:38:58.172Z"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "name": "mini-crm",
+  "version": "1.0.0",
+  "description": "Client Lead Management System (Mini CRM) — Future Interns FUTURE_FS_02",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "MIT"
+}
