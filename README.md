@@ -1,4 +1,4 @@
-Live Application Demo:https://future-fs-02-gagx.onrender.com
+Live Application Demo: https://future-fs-02-gagx.onrender.com
 
 # Ledger — Client Lead Management System (Mini CRM)
 
@@ -155,3 +155,4 @@ one file. Make sure the whole `mini-crm` folder — `db.js`, `static.js`,
 
 - Sessions are stored in memory, so restarting the server logs everyone out. A production version would use a real session store or JWTs.
 - The JSON-file "database" is fine for a single-user demo but isn't safe for concurrent writers — a real deployment should use MongoDB/MySQL as the brief suggests.
+
